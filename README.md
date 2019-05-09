@@ -87,3 +87,12 @@ Disclaimer: The below solutions are for reference only. This is all my work.Plea
 2.Partitioning Souvenirs
 
 3.Maximum Value of an Arithmetic Expression
+
+
+# Contributing
+
+All contributions are welcome. Just make a PR. Below is a list of general improvements that need to be added that I would love help with:
+
+Improve documentation
+Clean up code (adding docstrings)
+Better algorithms that reduce time complexity
