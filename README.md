@@ -98,5 +98,4 @@ Clean up code (adding docstrings)
 Better algorithms that reduce time complexity
 
 # Certification:
-
-[Coursera ABWRPCXKQWWF.pdf](https://github.com/dnmanveet/Coursera-Algorithmic-Toolbox/files/3162124/Coursera.ABWRPCXKQWWF.pdf)
+![Coursera ABWRPCXKQWWF-1](https://user-images.githubusercontent.com/29728855/57453749-cbaef080-7284-11e9-9d3b-7525b023b973.jpg)
