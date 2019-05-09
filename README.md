@@ -8,6 +8,7 @@ Disclaimer: The below solutions are for reference only. This is all my work.Plea
 
 
 Sum of Two Digits
+
 Maximum Pairwise Product
 
 
@@ -15,12 +16,19 @@ Maximum Pairwise Product
 
 
 Fibonacci Number
+
 Last Digit of a Large Fibonacci Number
+
 Greatest Common Divisor
+
 Least Common Multiple
+
 Fibonacci Number Again
+
 Last Digit of the Sum of Fibonacci Numbers
+
 Last Digit of the Sum of Fibonacci Numbers Again
+
 Last Digit of the Sum of Squares of Fibonacci Numbers
 
 
@@ -28,19 +36,32 @@ Last Digit of the Sum of Squares of Fibonacci Numbers
 
 
 Money Change
+
 Maximum Value of the Loot (Fractional Knapsack)
+
 Maximum Advertisement Revenue (Maximum Dot Product)
+
 Collecting Signatures (Covering Segments by Points)
+
 Maximum Number of Prizes (Different Summands)
+
 Maximum Salary (Largest Number)
 
 
 #Week 4- Divide and Conquer [(PDF)](https://github.com/dnmanveet/Coursera-Algorithmic-Toolbox/blob/master/week4_divide_and_conquer/week4_divide_and_conquer.pdf)
+
+
+
 Binary Search
+
 Majority Element
+
 Improving QuickSort
+
 Inversions
+
 Organizing a Lottery
+
 Closest Points
 
 
@@ -48,9 +69,13 @@ Closest Points
 
 
 Money Change Again
+
 Primitive Calculator
+
 Edit Distance
+
 Longest Common Subsequence of Two Sequence
+
 Longest Common Subsequence of Three Sequence
 
 
@@ -58,5 +83,7 @@ Longest Common Subsequence of Three Sequence
 
 
 Maximum Amount of Gold
+
 Partitioning Souvenirs
+
 Maximum Value of an Arithmetic Expression
