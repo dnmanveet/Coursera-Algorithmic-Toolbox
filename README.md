@@ -2,7 +2,11 @@
 
 This repository contains all solutions for the course [Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox/) offered on Coursera. The assignment solutions are in CPP(mostly) and Java(some part).
 
+# Certificate:
+![Coursera ABWRPCXKQWWF-1](https://user-images.githubusercontent.com/29728855/58020903-27039d00-7b27-11e9-8a4f-3503379f4498.jpg)
+
 Disclaimer: The below solutions are for reference only. This is all my work.Please design and implement your own algorithms to pass the course.
+
 
 # Week 1- Programming Challenges [(PDF)](https://github.com/dnmanveet/Coursera-Algorithmic-Toolbox/blob/master/week1_programming_challenges/week1_programming_challenges.pdf)
 
@@ -96,4 +100,3 @@ All contributions are welcome. Just make a PR. Below is a list of general improv
 Improve documentation
 Clean up code (adding docstrings)
 Better algorithms that reduce time complexity
-
